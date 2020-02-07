@@ -34,6 +34,14 @@
     
 }
 
+
+.carousel-item{
+    height: auto;
+    width: 100%;
+    
+
+}
+
 hr{
     background-color:white;
     width: 5%;
