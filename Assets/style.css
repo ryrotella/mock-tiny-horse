@@ -1,0 +1,170 @@
+.nav-link {
+    color: whitesmoke;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color:lightgray;
+    
+    
+}
+
+.nav-item:hover{
+    text-decoration: underline;
+    text-decoration-color: sandybrown;
+}
+
+#landing{
+    background: url("trees.jpg") no-repeat center;
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+
+#intro{
+    color: white;
+    font-family: Georgia, serif;
+    font-size: 60px;
+    display: block;
+    text-align: left;
+    white-space: pre-line;
+    padding: 50px;
+    
+    
+}
+
+hr{
+    background-color:white;
+    width: 5%;
+    float: left;
+    margin-left: 5%;
+    height: 10px;
+}
+
+.navbar-nav{
+    margin-right: 5%;
+}
+
+#home-container{
+    margin-top: 5%;
+    
+}
+
+.actions, .card-deck, .actionTitle{
+    background-color: #f2eceb;
+    font-family: Georgia, serif;
+}
+
+.actionTitle, h3{
+    text-align: center;
+    padding: 10px;
+}
+
+
+.services{
+    padding-bottom: 10%;
+}
+
+.testimony{
+    background-color: white;
+    text-transform: uppercase;
+    margin: 7%;
+    font-family: Georgia, serif;
+}
+
+blockquote{
+    font-size: x-large;
+    text-transform: none;
+    font-weight: 300;
+    padding-bottom: 25%;
+}
+
+h6{
+    font-weight: 900;
+}
+
+.jobTitle{
+    font-style: italic;
+    font-size: 12px;
+}
+
+.person{
+    margin-bottom: 1px;
+}
+
+#contact{
+    background: url("sunset3.jpg") no-repeat center;
+    background-size: cover;
+    color: whitesmoke;
+    padding: 5%;
+    font-family: Georgia, serif;
+}
+
+h6{
+    text-transform: uppercase;
+    padding-bottom: 5%;
+}
+
+#connect{
+    color: pink;
+}
+
+#contactLine{
+    font-size: xx-large;
+}
+
+#connect:hover{
+    text-decoration: underline;
+}
+
+#footer{
+    padding-top: 3%;
+}
+
+#logo{
+    padding-left: 16%;
+}
+
+.address{
+    padding-top: 2%;
+    text-transform: uppercase;
+}
+
+.location{
+    padding: 10px;
+    font-weight: 20;
+    margin-bottom: 5px;
+    
+}
+
+#email:link, #email:visited{
+    color: white;
+}
+
+#email:hover{
+    text-decoration: none;
+}
+
+
+.mailing{
+    padding-bottom: 50px;
+}
+
+#copyright{
+    color: steelblue;
+    padding-left: 20px;
+}
+
+.legal:link, .legal:visited{
+    color: steelblue;
+}
+
+.legal:hover{
+    color: orangered;
+    text-decoration: none;
+}
+
+.carousel, .carousel-item{
+    height: 100px;
+}
